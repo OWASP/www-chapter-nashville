@@ -15,6 +15,7 @@ postal-code: 37201
 
 OWASP Nashville
 ---------------
+
 Welcome to the OWASP Nashville Chapter!
 
 The chapter leaders are <a href="mailto:mark.geeslin@owasp.org">Mark Geeslin</a> and <a href="mailto:joel.tomassini@owasp.org">Joel Tomassini</a>.
@@ -23,6 +24,8 @@ Follow chapter news on [Meetup.com](https://meetup.com/OWASP-Nashville-Chapter)
 
 Next Meeting/Event(s)
 ---------------------
+![meetup](assets/images/meetup-logo-160x65.png)
+
 OWASP Nashville meetings are posted on our MeetUp page:
 
 Please visit <a href="http://www.meetup.com/OWASP-Nashville-Chapter">http://www.meetup.com/OWASP-Nashville-Chapter</a> for all chapter event information.
@@ -37,6 +40,3 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), and [Events](/events). We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-{info.md}
-
-{leaders.md}
