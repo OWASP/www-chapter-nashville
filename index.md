@@ -13,7 +13,6 @@ postal-code: 37201
 
 ---
 
-<!- Initial -->
 OWASP Nashville
 -------------
 Welcome to the OWASP Nashville Chapter! The chapter board is <a href="mailto:mark.geeslin@owasp.org">Mark Geeslin</a> and <a href="mailto:joel.tomassini@owasp.org">Joel Tomassini</a>. Follow chapter news on [Meetup.com](https://meetup.com/OWASP-Nashville-Chapter)
