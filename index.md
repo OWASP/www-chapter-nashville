@@ -5,7 +5,7 @@ title: OWASP Nashville
 site_side: true
 tags: nashville
 level: 3
-region: United States
+region: North America
 currency: usd
 meetup-group: OWASP-Nashville-Chapter
 country: USA
@@ -13,10 +13,9 @@ postal-code: 37201
 
 ---
 
-OWASP Nashville
----------------
 
 Welcome to the OWASP Nashville Chapter!
+---------------------------------------
 
 Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well!  We will be resuming meetups (virtual meetups for now) in October with a fascinating talk on cloud security defense mechanisms.  Details to be published on the [OWASP Nahville Meetup page](https://meetup.com/OWASP-Nashville-Chapter) soon!
 
