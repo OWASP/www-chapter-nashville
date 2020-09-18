@@ -30,7 +30,7 @@ Next Meeting / Event
 
 OWASP Nashville meetings are posted on our Meetup page. Please visit <a href="http://www.meetup.com/OWASP-Nashville-Chapter">http://www.meetup.com/OWASP-Nashville-Chapter</a> for all chapter event information.
 
-Join the OWASP Nashville Meetup group on <a href="https://meetup.com/OWASP-Nashville-Chapter">Meetup</a> to be notified when the details of the next event are published.
+Join the OWASP Nashville group on <a href="https://meetup.com/OWASP-Nashville-Chapter">Meetup</a> to be notified when the details of the next event are published.
 
 
 Participation
