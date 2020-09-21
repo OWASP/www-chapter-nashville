@@ -17,7 +17,7 @@ postal-code: 37201
 Welcome to the OWASP Nashville Chapter!
 ---------------------------------------
 
-Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well!  We will be resuming meetups (virtual meetups for now) in October with a fascinating talk on cloud security defense mechanisms.  Details to be published on the [OWASP Nahville Meetup page](https://meetup.com/OWASP-Nashville-Chapter) soon!
+Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well!  We will be resuming meetups (virtual meetups for now) in October with a fascinating talk on cloud security defense mechanisms.  Details to be published on the [OWASP Nashville Meetup page](https://meetup.com/OWASP-Nashville-Chapter) soon!
 
 The chapter leaders are <a href="mailto:mark.geeslin@owasp.org">Mark Geeslin</a>, <a href="mailto:joel.tomassini@owasp.org">Joel Tomassini</a>, <a href="mailto:brandon.evans@owasp.org">Brandon Evans</a>, and Casey Rosini.
 
