@@ -13,32 +13,30 @@ postal-code: 37201
 
 ---
 
-Welcome to the OWASP Nashville Chapter!
----------------------------------------
+# Welcome to the OWASP Nashville Chapter!
 
-Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well!  We will be resuming meetups (virtual meetups for now) in October with a fascinating talk on cloud security defense mechanisms.  Details to be published on the [OWASP Nashville Meetup page](https://meetup.com/OWASP-Nashville-Chapter) soon!
+![OWASP Nashville](./assets/images/logo.jpg)
 
-The chapter leaders are <a href="mailto:mark.geeslin@owasp.org">Mark Geeslin</a>, <a href="mailto:joel.tomassini@owasp.org">Joel Tomassini</a>, <a href="mailto:brandon.evans@owasp.org">Brandon Evans</a>, and Casey Rosini.
+Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well! We will be meeting in October. See below for details!
 
+The chapter leaders are [Mark Geeslin](mailto:mark.geeslin@owasp.org), [Joel Tomassini](mailto:joel.tomassini@owasp.org), [Brandon Evans](mailto:brandon.evans@owasp.org), and Casey Rosini.
 
-Next Meeting / Event
---------------------
+# Next Meeting / Event
 
-### 10/27/2020: Defending Multicloud Infrastructure
+## 10/27/2020: Defending Multicloud Infrastructure
 
 Join Senior Application Security Engineer at Asurion and Instructor for the SANS Institute Brandon Evans at OWASP Nashville's next online Meetup. Brandon will discuss how to defend infrastructure and applications running in Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP).
 
 Brandon is the lead author of SANS SEC510: Multicloud Security Assessment and Defense. For more information, visit: [SANS.org/SEC510](http://sans.org/SEC510)
 
-![meetup](assets/images/meetup-logo-160x65.png)
+[![Meetup](./assets/images/meetup-logo-160x65.png)](http://www.meetup.com/OWASP-Nashville-Chapter)
 
-OWASP Nashville meetings are posted on our Meetup page. Please visit <a href="http://www.meetup.com/OWASP-Nashville-Chapter">http://www.meetup.com/OWASP-Nashville-Chapter</a> for all chapter event information.
+OWASP Nashville meetings are posted on our Meetup page. Please visit [http://www.meetup.com/OWASP-Nashville-Chapter](http://www.meetup.com/OWASP-Nashville-Chapter) for all chapter event information.
 
-Join the OWASP Nashville group on <a href="https://meetup.com/OWASP-Nashville-Chapter">Meetup</a> to be notified when the details of the next event are published.
+Join the OWASP Nashville group on [Meetup](http://www.meetup.com/OWASP-Nashville-Chapter) to be notified when the details of the next event are published.
 
 
-Participation
--------------
+# Participation
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
