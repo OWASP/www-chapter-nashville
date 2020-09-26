@@ -63,8 +63,7 @@ Instead of a normal OWASP Meetup, we held our inaugural [MusicCityCon](https://m
 
 ### Sponsors
 
-| [![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/) | [![Security Innovation](./assets/images/sponsors/si.png)](https://www.securityinnovation.com/) |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+[![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/) [![Security Innovation](./assets/images/sponsors/si.png)](https://www.securityinnovation.com/)
 
 ## 03/19/2019: Exploring the Dark Web
 
