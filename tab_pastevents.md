@@ -9,9 +9,9 @@ tags: nashville
 
 ---
 
-## Past Events
+# Past Events
 
-### 05/19/2020: Web Application Cyber Range for Fun & Profit
+## 05/19/2020: Web Application Cyber Range for Fun & Profit
 
 For our first virtual Meetup, Security Innovation ran one of their [CMD+CTRL Cyber Ranges](https://www.securityinnovation.com/training/cmd-ctrl-cyber-range-security-training/) in which our chapter competed:
 
@@ -23,11 +23,11 @@ For our first virtual Meetup, Security Innovation ran one of their [CMD+CTRL Cyb
 
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/268971330/)
 
-#### Sponsor
+### Sponsor
 
 [![Security Innovation](./assets/images/sponsors/si.png)](https://www.securityinnovation.com/)
 
-### 10/22/2019: Serverless Security for Dummies
+## 10/22/2019: Serverless Security for Dummies
 
 Tal Melamed ([@4ppsec](https://twitter.com/4ppsec)), Head of Security Research at [Protego Labs](http://protego.io/) and Co-Leader of the [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/), flew in to teach us about Serverless Security:
 
@@ -37,11 +37,11 @@ Tal Melamed ([@4ppsec](https://twitter.com/4ppsec)), Head of Security Research a
 
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/264931782/)
 
-#### Sponsor
+### Sponsor
 
 [![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/)
 
-### 06/13/2019: MusicCityCon
+## 06/13/2019: MusicCityCon
 
 [![MusicCityCon 2019](./assets/images/musiccitycon2019.png)](https://musiccitycon.org/)
 
@@ -51,7 +51,7 @@ Instead of a normal OWASP Meetup, we held our inaugural [MusicCityCon](https://m
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/262270947/)
 [Agenda and Sponsors](https://p316rg.attendify.io/)
 
-### 05/07/2019: CMD+CTRL Web Application Cyber Range
+## 05/07/2019: CMD+CTRL Web Application Cyber Range
 
 [Security Innovation](https://www.securityinnovation.com/) ran an instance of their [Shadow Bank Cyber Range](https://www.securityinnovation.com/training/cmd-ctrl-cyber-range-security-training/cyber-range-suite/cmdctrl-cyber-range-shadow-bank/) in which our chapter competed:
 
@@ -61,17 +61,17 @@ Instead of a normal OWASP Meetup, we held our inaugural [MusicCityCon](https://m
 
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/260574652/)
 
-#### Sponsors
+### Sponsors
 
-[![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/)
-[![Security Innovation](./assets/images/sponsors/si.png)](https://www.securityinnovation.com/)
+| [![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/) | [![Security Innovation](./assets/images/sponsors/si.png)](https://www.securityinnovation.com/) |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 
-### 03/19/2019: Exploring the Dark Web
+## 03/19/2019: Exploring the Dark Web
 
 For our inaugural OWASP Nashville Chapter Meetup, Chapter Co-Leader [Joel Tomassini](joel.tomassini@owasp.org) presented on how to explore the Dark Web securely.
 
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/258997478/)
 
-#### Sponsors
+### Sponsors
 
 [![Asurion](./assets/images/sponsors/asurion.png)](https://www.asurion.com/)
