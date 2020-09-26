@@ -1,11 +1,12 @@
 ---
+
 title: PastEvents
 displaytext: Past Events
 layout:  null
 tab: true
 order: 2
-tags: Nashville
-altfooter: true
+tags: nashville
+
 ---
 
 ## Past Events
