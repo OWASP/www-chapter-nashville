@@ -68,7 +68,7 @@ Instead of a normal OWASP Meetup, we held our inaugural [MusicCityCon](https://m
 
 ## 03/19/2019: Exploring the Dark Web
 
-For our inaugural OWASP Nashville Chapter Meetup, Chapter Co-Leader [Joel Tomassini](joel.tomassini@owasp.org) presented on how to explore the Dark Web securely.
+For our inaugural OWASP Nashville Chapter Meetup, Chapter Co-Leader [Joel Tomassini](mailto:joel.tomassini@owasp.org) presented on how to explore the Dark Web securely.
 
 [Meetup](https://www.meetup.com/OWASP-Nashville-Chapter/events/258997478/)
 
