@@ -11,6 +11,10 @@ tags: nashville
 
 # Past Events
 
+## 10/27/2020: Defending Multicloud Infrastructure
+
+Senior Application Security Engineer at Asurion, Instructor for the SANS Institute, and OWASP Nashville Co-Leader Brandon Evans discussed how to defend infrastructure and applications running in Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP). Brandon is the lead author of SANS SEC510: Multicloud Security Assessment and Defense. For more information, visit: [SANS.org/SEC510](http://sans.org/SEC510)
+
 ## 05/19/2020: Web Application Cyber Range for Fun & Profit
 
 For our first virtual Meetup, Security Innovation ran one of their [CMD+CTRL Cyber Ranges](https://www.securityinnovation.com/training/cmd-ctrl-cyber-range-security-training/) in which our chapter competed:

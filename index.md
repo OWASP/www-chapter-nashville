@@ -23,12 +23,6 @@ The chapter leaders are [Mark Geeslin](mailto:mark.geeslin@owasp.org), [Joel Tom
 
 # Next Meeting / Event
 
-## 10/27/2020: Defending Multicloud Infrastructure
-
-Join Senior Application Security Engineer at Asurion and Instructor for the SANS Institute Brandon Evans at OWASP Nashville's next online Meetup. Brandon will discuss how to defend infrastructure and applications running in Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP).
-
-Brandon is the lead author of SANS SEC510: Multicloud Security Assessment and Defense. For more information, visit: [SANS.org/SEC510](http://sans.org/SEC510)
-
 [![Meetup](./assets/images/meetup-logo-160x65.png)](http://www.meetup.com/OWASP-Nashville-Chapter)
 
 OWASP Nashville meetings are posted on our Meetup page. Please visit [http://www.meetup.com/OWASP-Nashville-Chapter](http://www.meetup.com/OWASP-Nashville-Chapter) for all chapter event information.
