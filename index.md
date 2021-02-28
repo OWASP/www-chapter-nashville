@@ -17,9 +17,13 @@ postal-code: 37201
 
 ![OWASP Nashville](./assets/images/logo.jpg)
 
-Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well! We will be meeting in October. See below for details!
+Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well! See below for details on our next event!
 
 The chapter leaders are [Mark Geeslin](mailto:mark.geeslin@owasp.org), [Joel Tomassini](mailto:joel.tomassini@owasp.org), [Brandon Evans](mailto:brandon.evans@owasp.org), and Casey Rosini.
+
+# Want to speak at a future meeting?
+
+We have a [CFP hosted by PaperCall.io](https://www.papercall.io/owasp-nashville). All talks are welcome that are germane to OWASP. We await your submissions!
 
 # Next Meeting / Event
 
