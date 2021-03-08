@@ -11,6 +11,20 @@ tags: nashville
 
 # Past Events
 
+## 03/02/2021: OWASP Threat and Safeguard Matrix (TaSM)
+
+[![OWASP Threat and Safeguard Matrix (TaSM)](http://img.youtube.com/vi/GRpU9L--qSg/0.jpg)](http://www.youtube.com/watch?v=GRpU9L--qSg "OWASP Threat and Safeguard Matrix (TaSM)")
+
+[https://www.meetup.com/OWASP-Nashville-Chapter/events/276453229](https://www.meetup.com/OWASP-Nashville-Chapter/events/276453229)
+
+[The Threat and Safeguard Matrix or (TaSM)](https://owasp.org/www-project-threat-and-safeguard-matrix/) is an action oriented view to safeguard and enable the business created by [Ross Young](https://www.linkedin.com/in/mrrossyoung/). Simply put if Cyber is in the business of Revenue Protection, then we need to have a defense in depth plan to combat the biggest threats to our companies. This matrix allows a company to overlay their major threats with the NIST Cyber Security Functions (Identify, Protect, Detect, Respond, & Recover) to build a robust security plan. Organizations which perform this activity will gain a better understanding of how to protect their company as they fill in safeguards which mitigate important threats. Remember the devil is in the details, hence why we chose a TaSManian Devil as the project logo.
+
+Ross Young is the CISO of Caterpillar Financial, a lecturer at Johns Hopkins University, and a SANS instructor.  Prior to this role, he was a divisional CISO at Capital One.  His expertise ranges from attacking financial services for the federal government to defending organizations by automating defenses in DevSecOps pipelines. He is actively involved in all things cloud, container, and Kubernetes security.  Ross holds master's and bachelor's degrees from Johns Hopkins University, Idaho State University, and Utah State University. Ross's interest in pirates and ninjas have inspired him to stealthily enable and safeguard the business without the paperwork.
+
+## 03/02/2021: Defending Multicloud Infrastructure
+
+Senior Application Security Engineer at Asurion, Instructor for the SANS Institute, and OWASP Nashville Co-Leader Brandon Evans discussed how to defend infrastructure and applications running in Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP). Brandon is the lead author of SANS SEC510: Multicloud Security Assessment and Defense. For more information, visit: [SANS.org/SEC510](http://sans.org/SEC510)
+
 ## 10/27/2020: Defending Multicloud Infrastructure
 
 Senior Application Security Engineer at Asurion, Instructor for the SANS Institute, and OWASP Nashville Co-Leader Brandon Evans discussed how to defend infrastructure and applications running in Amazon Web Services (AWS), Microsoft Azure, and the Google Cloud Platform (GCP). Brandon is the lead author of SANS SEC510: Multicloud Security Assessment and Defense. For more information, visit: [SANS.org/SEC510](http://sans.org/SEC510)
