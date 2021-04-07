@@ -27,7 +27,11 @@ We have a [CFP hosted by PaperCall.io](https://www.papercall.io/owasp-nashville)
 
 # Next Meeting / Event
 
-Coming soon!
+## 05/04/2021: Secure Coding Tournament with Secure Code Warrior
+
+[https://www.meetup.com/OWASP-Nashville-Chapter/events/277409499](https://www.meetup.com/OWASP-Nashville-Chapter/events/277409499)
+
+Secure Code Warrior brings you a defensive security-based tournament from a developer's perspective. The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability. You don’t need programming knowledge as this will be a great way to learn the foundations and intermediates of leveraging code that is not only functional but is also secure. With a variety of languages to play with: C# .NET MVC, C# .NET WebForms, C# .NET Core, GO Basic, Java EE (JSP) & (JSF), Java Spring, JavaScript Node.JS (Express), Python Django, and last but not least, Pseudocode Basic for the non-coders.
 
 [![Meetup](./assets/images/meetup-logo-160x65.png)](http://www.meetup.com/OWASP-Nashville-Chapter)
 
