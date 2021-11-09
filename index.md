@@ -19,7 +19,7 @@ postal-code: 37201
 
 Although COVID has created unprecedented challenges for all of us, OWASP Nashville is alive and well! See below for details on our next event!
 
-The chapter leaders are [Brandon Evans](mailto:brandon.evans@owasp.org), Ross Young, [Joel Tomassini](mailto:joel.tomassini@owasp.org), and Casey Rosini (mailto:casey.rosini@owasp.org).
+The chapter leaders are [Brandon Evans](mailto:brandon.evans@owasp.org), Ross Young, [Joel Tomassini](mailto:joel.tomassini@owasp.org), and [Casey Rosini](mailto:casey.rosini@owasp.org).
 
 # Want to speak at a future meeting?
 
