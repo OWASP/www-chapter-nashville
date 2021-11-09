@@ -27,7 +27,11 @@ We have a [CFP hosted by PaperCall.io](https://www.papercall.io/owasp-nashville)
 
 # Next Meeting / Event
 
-Stay tuned!
+## 11/10/2021: AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know
+
+[https://www.meetup.com/OWASP-Nashville-Chapter/events/281949599/](https://www.meetup.com/OWASP-Nashville-Chapter/events/281949599/)
+
+In this talk, we will showcase AWS Prefixes and go over those prefixes what they mean, how you can get them. Some resource types like S3 for example allow for the use of a unique ID rather than the full principal ARN that many know and understand. We can cover why use of the unique ID is fundamentally a bad idea, and how to handle them should you run into an environment that has them.
 
 [![Meetup](./assets/images/meetup-logo-160x65.png)](http://www.meetup.com/OWASP-Nashville-Chapter)
 
