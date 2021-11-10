@@ -37,6 +37,7 @@ In this talk, we will showcase AWS Prefixes and go over those prefixes what they
 
 
 OWASP Nashville meetings are posted on our [Meetup page.][http://www.meetup.com/OWASP-Nashville-Chapter]
+
 {% include chapter_events.html group=page.meetup-group %}
 
 Join the OWASP Nashville group on [Meetup](http://www.meetup.com/OWASP-Nashville-Chapter) to be notified when the details of the next event are published.
