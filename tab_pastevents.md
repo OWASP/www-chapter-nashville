@@ -11,13 +11,21 @@ tags: nashville
 
 # Past Events
 
+## 11/10/2021: AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know
+
+[![AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know](https://img.youtube.com/vi/V2izKdOb1hM/0.jpg)](https://www.youtube.com/watch?v=V2izKdOb1hM "AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know")
+
+[https://www.meetup.com/OWASP-Nashville-Chapter/events/281949599/](https://www.meetup.com/OWASP-Nashville-Chapter/events/281949599/)
+
+In this talk, we will showcase AWS Prefixes and go over those prefixes what they mean, how you can get them. Some resource types like S3 for example allow for the use of a unique ID rather than the full principal ARN that many know and understand. We can cover why use of the unique ID is fundamentally a bad idea, and how to handle them should you run into an environment that has them.
+
 ## 05/04/2021: Secure Coding Tournament with Secure Code Warrior
 
 Secure Code Warrior brings you a defensive security-based tournament from a developer's perspective. The tournament allows you to test your skill against the other participants in a series of vulnerable code challenges that ask you to identify a problem, locate insecure code, and fix a vulnerability. You don’t need programming knowledge as this will be a great way to learn the foundations and intermediates of leveraging code that is not only functional but is also secure. With a variety of languages to play with: C# .NET MVC, C# .NET WebForms, C# .NET Core, GO Basic, Java EE (JSP) & (JSF), Java Spring, JavaScript Node.JS (Express), Python Django, and last but not least, Pseudocode Basic for the non-coders.
 
 ## 03/02/2021: OWASP Threat and Safeguard Matrix (TaSM)
 
-[![OWASP Threat and Safeguard Matrix (TaSM)](http://img.youtube.com/vi/GRpU9L--qSg/0.jpg)](http://www.youtube.com/watch?v=GRpU9L--qSg "OWASP Threat and Safeguard Matrix (TaSM)")
+[![OWASP Threat and Safeguard Matrix (TaSM)](https://img.youtube.com/vi/GRpU9L--qSg/0.jpg)](http://www.youtube.com/watch?v=GRpU9L--qSg "OWASP Threat and Safeguard Matrix (TaSM)")
 
 [https://www.meetup.com/OWASP-Nashville-Chapter/events/276453229](https://www.meetup.com/OWASP-Nashville-Chapter/events/276453229)
 
