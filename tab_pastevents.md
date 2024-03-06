@@ -11,6 +11,12 @@ tags: nashville
 
 # Past Events
 
+## 02/29/2024: Kubernetes Top 10 with Jimmy Mesta
+
+[![Kubernetes Top 10 with Jimmy Mesta](https://img.youtube.com/vi/ZD40G7Rf_f4/0.jpg)](https://www.youtube.com/watch?v=ZD40G7Rf_f4 "Kubernetes Top 10 with Jimmy Mesta")
+
+Given the growth and adoption of Kubernetes, a number of projects have been published in the OWASP community to help practitioners assess and secure the security of their containerized infrastructure including the recently released Top Ten for Kubernetes. This OSS project is a community-curated list of the most common Kubernetes risks backed by data collected from organizations varying in maturity and complexity. This session will discuss the project in detail, examples for each of the risks in the list, and how you can get involved.
+
 ## 11/10/2021: AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know
 
 [![AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know](https://img.youtube.com/vi/V2izKdOb1hM/0.jpg)](https://www.youtube.com/watch?v=V2izKdOb1hM "AWS ID Prefixes: What AWS Doesn't Cover is What You Need to Know")
