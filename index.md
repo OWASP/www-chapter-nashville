@@ -25,8 +25,6 @@ students or want to be more involved or practice their public speaking.
 
 # Next Meeting / Event
 
-May 22nd, 5:00 - 7:00 PM at [Asurion Headquarters](https://www.openstreetmap.org/search?whereami=1&query=36.15925%2C-86.78715#map=18/36.15925/-86.78715)
-
 [![Meetup](./assets/images/meetup-logo-160x65.png)](http://www.meetup.com/OWASP-Nashville-Chapter)
 
 {% include chapter_events.html group=page.meetup-group %}
