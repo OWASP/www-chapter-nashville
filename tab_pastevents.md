@@ -11,6 +11,18 @@ tags: nashville
 
 # Past Events
 
+## 05/22/2024: Supply Chain Security with Dan Lorenc
+
+[![Supply Chain Security with Dan Lorenc](https://img.youtube.com/vi/wnC8JNp4QQ/0.jpg)](https://youtu.be/4wnC8JNp4QQ "Supply Chain Security with Dan Lorenc")
+
+Dan Lorenc is co-founder and CEO of Chainguard, a leading software supply chain security company. Dan has been working on and worrying about containers since 2015 as an engineer and manager. He started projects like Minikube, Skaffold, and Kaniko to make containers easy and fun, then got so worried about the state of OSS supply-chains he helped found the Tekton and Sigstore projects to make it easier to build and use containers securely; as well as SLSA to create a common language for software security and supply chain integrity. He has been involved with the Cloud Native Computing Foundation, chaired the Continuous Delivery Foundation technical oversight committee, and sits on the governing board for the Open Source Security Foundation. You can find him on Twitter @lorenc_dan.
+
+## 05/01/2024: Understanding the Cyber Kill Chain with Elizabeth Stephens
+
+[![Understanding the Cyber Kill Chain with Elizabeth Stephens]((https://img.youtube.com/vi/5Ypkg5xxHvo/0.jpg))](https://youtu.be/5Ypkg5xxHvo "Understanding the Cyber Kill Chain with Elizabeth Stephens")
+
+This session will delve into the Cyber Kill Chain, a foundational framework for comprehending cyberattacks. We'll explore how attackers operate and empower ourselves to build targeted defenses. While a valuable tool, we'll also discuss the Kill Chain's limitations and the evolving nature of attacker tactics.
+
 ## 02/29/2024: Kubernetes Top 10 with Jimmy Mesta
 
 [![Kubernetes Top 10 with Jimmy Mesta](https://img.youtube.com/vi/ZD40G7Rf_f4/0.jpg)](https://www.youtube.com/watch?v=ZD40G7Rf_f4 "Kubernetes Top 10 with Jimmy Mesta")
