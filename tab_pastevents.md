@@ -11,6 +11,12 @@ tags: nashville
 
 # Past Events
 
+## 10/22/2024: The Dark Side of Open Source Productivity with Endor Labs
+
+[![The Dark Side of Open Source Productivity with Endor Labs](https://img.youtube.com/vi/VSIlx6ZswJk/0.jpg)](https://www.youtube.com/watch?v=VSIlx6ZswJk "The Dark Side of Open Source Productivity with Endor Labs")
+
+Join us to meet Jamie Scott from Endor Labs as we talk about The Dark Side of Open Source Productivity. We'll learn how to think through all the potential risk you inherit when using open source software and how to handle upgrade anxiety, whether that comes from breaking changes or from the unknown of the software supply chain.
+
 ## 08/14/2024: Capture the Flag - SHRED by Security Innovation
 
 ## 07/24/2024: Every app risk, everywhere, all at once
