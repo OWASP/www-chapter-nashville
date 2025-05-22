@@ -11,6 +11,27 @@ tags: nashville
 
 # Past Events
 
+## 03/12/2025: AI is here for business users. What does that mean for AppSec?
+
+[![AI is here for business users. What does that mean for AppSec?](https://img.youtube.com/vi/FzYCo8_DbeA/0.jpg)](https://youtu.be/FzYCo8_DbeA "AI is here for business users. What does that mean for AppSec?")
+
+Gone are the days where you needed to have a coding background in order to create apps, automate processes, or reduce the need for manual tasks. Now, emails and communications are sent quicker, code is written faster, and applications are built en masse. Business users are enabled and empowered in ways we never dreamed of even 12 months ago. Thanks to the injection of AI into essentially every business productivity tool, from email to business intelligence to application development, business users are able to get more done without needing IT or dev teams to get involved. However, as is often the case, productivity and ease can come at the expense of security if not controlled properly. As people are brought closer to technology through the use of Gen AI tools and Copilots, security teams are facing difficult decisions on whether to clamp down on the use of these tools, or staring down increased likelihoods of data leakage and exfiltration. For a long time, security has been seen as a business blocker, but the introduction of Gen AI is forcing a reset on organizations that presents an opportunity for security to act as a business enabler.
+
+
+## 01/22/2025: Secure Coding Tournament with Security Journey
+
+## 11/13/2024: Patients at Risk: Investigating The Healthcare Cybersecurity Crisis
+
+[![Patients at Risk: Investigating The Healthcare Cybersecurity Crisis](https://img.youtube.com/vi/Fu6Suhc3j3k/0.jpg)](https://youtu.be/Fu6Suhc3j3k "Patients at Risk: Investigating The Healthcare Cybersecurity Crisis")
+
+Want to learn more about the most successfully attacked industry in the world? Here’s your chance!
+
+Healthcare organizations are facing a digital storm. Cyberattacks are increasingly successful, targeting sensitive patient data, disrupting critical services, and putting lives at risk. Facing a growing threat landscape due to increasing reliance on interconnected technologies (including IoT, IoMT, OT and IT systems), many hospitals are struggling to recover from decades of accumulated cybersecurity debt.
+
+This presentation will explore the root causes of healthcare cyberattacks, providing real-world examples and discussing the technical vulnerabilities that make organizations prime targets. Attendees will gain insights into the emerging guidance and strategies for improving healthcare cybersecurity, as well as the debate surrounding the need for regulation in this critical sector. We will also examine the significant financial and reputational costs associated with cyberattacks and delve into the motivations and tactics of the attackers themselves.
+
+Join OWASP Nashville and Chad Holmes as we dive deep into the world of healthcare cybersecurity. We'll explore the root causes of cyberattacks, examine real-world examples, and discuss the technical vulnerabilities that make hospitals prime targets.
+
 ## 10/22/2024: The Dark Side of Open Source Productivity with Endor Labs
 
 [![The Dark Side of Open Source Productivity with Endor Labs](https://img.youtube.com/vi/VSIlx6ZswJk/0.jpg)](https://www.youtube.com/watch?v=VSIlx6ZswJk "The Dark Side of Open Source Productivity with Endor Labs")
