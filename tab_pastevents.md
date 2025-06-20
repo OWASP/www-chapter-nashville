@@ -11,6 +11,16 @@ tags: nashville
 
 # Past Events
 
+## 06/18/2025: Leveraging AI Telemetry to reduce MTTR
+
+[![Leveraging AI Telemetry to reduce MTTR](https://img.youtube.com/vi/vOgFdA3T05I/0.jpg)](https://youtu.be/vOgFdA3T05I "Leveraging AI Telemetry to reduce MTTR")
+
+Attendees will learn how to ingest telemetry from a variety of sources and protocols then leverage that telemetry against a custom ML and GAI framework to find anomalies that will help resolve attacks and reduce MTTR.
+
+## 04/16/2025: Our Favorite OWASP Projects
+
+Join our chapter leaders to discuss with us our favorite OWASP projects and how we use them for our work! This can be a great opportunity to get exposure to the work that OWASP does and learn a bit more about what your membership fees (if a paid member) help support the development of.
+
 ## 03/12/2025: AI is here for business users. What does that mean for AppSec?
 
 [![AI is here for business users. What does that mean for AppSec?](https://img.youtube.com/vi/FzYCo8_DbeA/0.jpg)](https://youtu.be/FzYCo8_DbeA "AI is here for business users. What does that mean for AppSec?")

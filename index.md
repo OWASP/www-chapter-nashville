@@ -38,8 +38,7 @@ All of our projects, tools, documents, forums, and chapters are free and open to
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/).
 Financial contributions should be made online using the authorized online donation channels.
-To be a speaker at any OWASP Chapter simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of
-what OWASP Project, independent research, or related software security topic you would like to present.
+To be a speaker at any OWASP Chapter simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 **Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), and [Events](/events)**. We especially encourage diversity in all our initiatives.
 OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert.
