@@ -11,6 +11,22 @@ tags: nashville
 
 # Past Events
 
+## 08/20/2025: The Dark Side of AI: Developing insecure applications in minutes!
+
+[![Leveraging AI Telemetry to reduce MTTR](https://img.youtube.com/vi/d7ClSabWwGQ/0.jpg)](https://youtu.be/d7ClSabWwGQ "Leveraging AI Telemetry to reduce MTTR")
+
+AI is the ultimate accelerant for application development - it's power unmatched - but without balance and control, it can quickly ignite new risks, turning potential into destruction. Explore the tangible impact of AI-generated code in this session buy playing with fire - Using GPT-driven prompts, we'll build a fully functional application, and in real time, we'll uncover how common security flaws like SQL injection, cross-site scripting, and weak authentication can manifest in AI-generated code.
+
+Through hands-on exploration, we'll walk through the potential impact of these vulnerabilities and how these risks could be avoided with secure coding practices, defined policies, developer guardrails, and thorough security audits and code review.
+
+By the end of the session, you'll have a deep understanding of how to:
+
+- Recognize and assess the risks AI introduces in your code.
+- Implement secure coding practices and enforce security policies.
+- Integrate security audits, code reviews, and testing into your development workflow to ensure AI-generated code is safe for production.
+
+This session is vendor agnostic and designed to empower you to reap the benefits of AI without sacrificing security.
+
 ## 06/18/2025: Leveraging AI Telemetry to reduce MTTR
 
 [![Leveraging AI Telemetry to reduce MTTR](https://img.youtube.com/vi/vOgFdA3T05I/0.jpg)](https://youtu.be/vOgFdA3T05I "Leveraging AI Telemetry to reduce MTTR")
