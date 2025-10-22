@@ -1,0 +1,28 @@
+currency: USD
+leaders:
+  - name: Jeremy Young
+    email: jeremy.young@owasp.org
+    github: jrm16020
+  - name: Linda Fay
+    email: linda.fay@owasp.org
+  - name: Joseph Shelby
+    email: joseph.shelby@owasp.org
+location:
+  country: USA
+  country_code: US
+  region: Tennessee
+  city: Nashville
+  postal_code: '37201'
+  latitude: 36.1622767
+  longitude: -86.7742984
+meetup_group: OWASP-Nashville-Chapter
+name: OWASP Nashville
+repositories:
+  - name: www-chapter-nashville
+    url: https://github.com/OWASP/www-chapter-nashville
+    description: OWASP Foundation Web Repository
+tags:
+  - nashville
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-nashville
