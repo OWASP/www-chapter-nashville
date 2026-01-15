@@ -11,9 +11,19 @@ tags: nashville
 
 # Past Events
 
+## 10/22/2025: Secure Vibe Coding: 3 Key Lessons
+
+[![Secure Vibe Coding: 3 Key Lessons](https://img.youtube.com/vi/UxJyzYGIufE/0.jpg)](https://youtu.be/UxJyzYGIufE "Secure Vibe Coding: 3 Key Lessons")
+
+AI coding assistants like Cursor, Copilot, and Windsurf significantly increase productivity and assist with mundane coding tasks. But while powerful, these tools carry risks: trained on vast public datasets, they inherit bad patterns without necessarily ensuring secure application development. In this talk, we'll share three actions you can take to improve code security:
+
+- Start with secure prompts
+- Implement security standards
+- Get real-time security signal
+
 ## 08/20/2025: The Dark Side of AI: Developing insecure applications in minutes!
 
-[![Leveraging AI Telemetry to reduce MTTR](https://img.youtube.com/vi/d7ClSabWwGQ/0.jpg)](https://youtu.be/d7ClSabWwGQ "Leveraging AI Telemetry to reduce MTTR")
+[![The Dark Side of AI: Developing insecure applications in minutes!](https://img.youtube.com/vi/d7ClSabWwGQ/0.jpg)](https://youtu.be/d7ClSabWwGQ "The Dark Side of AI: Developing insecure applications in minutes!")
 
 AI is the ultimate accelerant for application development - it's power unmatched - but without balance and control, it can quickly ignite new risks, turning potential into destruction. Explore the tangible impact of AI-generated code in this session buy playing with fire - Using GPT-driven prompts, we'll build a fully functional application, and in real time, we'll uncover how common security flaws like SQL injection, cross-site scripting, and weak authentication can manifest in AI-generated code.
 
